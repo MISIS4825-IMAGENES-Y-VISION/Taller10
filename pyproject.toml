@@ -5,7 +5,6 @@ requires-python = ">=3.14"
 dependencies = [
     "grain>=0.2.16",
     "jax>=0.10.0",
-    "kagglehub>=1.0.0",
     "keras>=3.14.0",
     "matplotlib>=3.10.9",
     "pillow>=12.2.0",
